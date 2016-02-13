@@ -1,0 +1,10 @@
+C:\Users\Jesse\Documents\Visual Studio 2015\Projects\WineCooler\WineCooler\bin\Debug\WineCooler.exe.config
+C:\Users\Jesse\Documents\Visual Studio 2015\Projects\WineCooler\WineCooler\bin\Debug\WineCooler.exe
+C:\Users\Jesse\Documents\Visual Studio 2015\Projects\WineCooler\WineCooler\bin\Debug\WineCooler.pdb
+C:\Users\Jesse\Documents\Visual Studio 2015\Projects\WineCooler\WineCooler\obj\Debug\WineCooler.Form1.resources
+C:\Users\Jesse\Documents\Visual Studio 2015\Projects\WineCooler\WineCooler\obj\Debug\WineCooler.Properties.Resources.resources
+C:\Users\Jesse\Documents\Visual Studio 2015\Projects\WineCooler\WineCooler\obj\Debug\WineCooler.csproj.GenerateResource.Cache
+C:\Users\Jesse\Documents\Visual Studio 2015\Projects\WineCooler\WineCooler\obj\Debug\WineCooler.exe
+C:\Users\Jesse\Documents\Visual Studio 2015\Projects\WineCooler\WineCooler\obj\Debug\WineCooler.pdb
+C:\Users\Jesse\Documents\Visual Studio 2015\Projects\WineCooler\WineCooler\obj\Debug\WineCooler.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Documents\Visual Studio 2015\Projects\WineCooler\WineCooler\obj\Debug\WineCooler.g.resources
